@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veriumas
 - 👀 I’m interested in azure, aws, salesforce, heroku
-- 🌱 I’m currently learning salesforce
+- 🌱 I’m currently learning kube
 
 <!---
 veriumas/veriumas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
